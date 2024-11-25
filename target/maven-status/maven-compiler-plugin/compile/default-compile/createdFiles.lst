@@ -1,0 +1,6 @@
+com\mascotasymas\model\Persona.class
+com\mascotasymas\TestConexionBD.class
+com\mascotasymas\resources\JakartaEE8Resource.class
+com\mascotasymas\dao\ConexionBD.class
+com\mascotasymas\model\Producto.class
+com\mascotasymas\JakartaRestConfiguration.class
